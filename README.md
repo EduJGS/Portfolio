@@ -147,7 +147,7 @@ Estos proyectos están diseñados para proporcionar una experiencia integral en 
 - Trabajo con maquinas virtuales
 
 <div align="center">
-  <p src="https://drive.google.com/file/d/1NqZ5hDR5xMhtEoSYsZmmK4iTZ4mupj9J/view?usp=sharing"> curriculum vitae <p/>
+  <p src=" https://drive.google.com/file/d/1NqZ5hDR5xMhtEoSYsZmmK4iTZ4mupj9J/view?usp=sharing "> curriculum vitae <p/>
 </div>
 
 ---
