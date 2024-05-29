@@ -140,14 +140,14 @@ Estos proyectos están diseñados para proporcionar una experiencia integral en 
 ## 🔧 Conocimientos Adquiridos
 - Redes
 - Aplicativos con Powershell, Scripts
-- Crontab, FreePbx
-- Ipfire, Pfsense, HighAvailability
-- Prestashop, Wordpress
-- Apache, Vagrant, Terraform
-- Amazon Cloud
+- Crontab
+- Iptables, HighAvailability
+- Wordpress
+- Apache
+- Trabajo con maquinas virtuales
 
 <div align="center">
-  <img height="500" src="https://iili.io/HrbGfsf.png"  />
+  <p src="https://drive.google.com/file/d/1NqZ5hDR5xMhtEoSYsZmmK4iTZ4mupj9J/view?usp=sharing"> curriculum vitae <p/>
 </div>
 
 ---
